@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="G:\Users\xuecheng\Documents\GitHub\1479586060.github.io\images\WXC.jpg" class="floatpic" width="360" height="480">
 
 Here is **XueCheng Wang (王学成)**.
 
