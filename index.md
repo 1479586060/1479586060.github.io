@@ -12,24 +12,15 @@ I am a second-grade postgraduate majoring in **Software Engineering** at XiaMen 
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+<!-- **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!** -->
+- **Sep 2022 - June 2025:** Xiamen University (Software Engineering)
+- **Sep 2017 - June 2021:** XiaMen University (Material)
 
 ---
-
 ## Research Interests
+- Physical simulation
 
-- Internet of Everything (IoE)
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on using **artificial intelligence** to accelerate **physics-based simulations**.
 
 ---
 
